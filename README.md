@@ -2,7 +2,7 @@
 
 ![CATU Logo](assets/catuLogo.png)
 
-This README provides comprehensive instructions for deploying and using the AIBIG Core Backend API.
+README ini berisi panduan lengkap untuk instalasi, konfigurasi, dan penggunaan Gemini News Scraper yang dibangun dengan Go, Colly, PostgreSQL, dan Gemini AI.
 
 
 # News Scraper (Go + Gemini AI)
