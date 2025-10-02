@@ -1,0 +1,20 @@
+# Ignore Go build outputs
+/bin/
+/obj/
+/*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Ignore IDE/editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Ignore Go modules if needed
+go.sum
+# go.mod   # <- kalau mau sekalian, uncomment baris ini
