@@ -17,4 +17,5 @@
 
 # Ignore Go modules if needed
 go.sum
+go.mod  
 # go.mod   # <- kalau mau sekalian, uncomment baris ini
