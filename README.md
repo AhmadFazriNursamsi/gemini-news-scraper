@@ -1,4 +1,4 @@
-# AIBIG Core
+# News Scraper Katolik
 
 ![CATU Logo](assets/catuLogo.png)
 
